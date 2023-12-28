@@ -16,12 +16,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 </a>
 
-## Framework :pencil2:
+## Framework :pushpin:
 <a href="https://spring.io/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
 
-## Bases de datos :pencil2:
+## Bases de datos :wrench:
 
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
@@ -46,4 +46,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> 
 
-## Proyecto principales
+## Proyecto principales :alembic:
+
+* [Bots de tareas](https://github.com/IngeCamiloAriza/task-bots)
